@@ -122,7 +122,7 @@ ADODB.RecordsetをラップしますAdd でSQL文を追加していきます。�
 |MoveNext|クエリを１件読み出します|
 |CloseRecordset|クエリを閉じます|
 |clear_param|パラメータをクリアします|
-|hasNext|次のレコードを読み出します|
+|hasNext|次のレコードがあるかどうか判定します|
 |RecordCount%|レコード数を返します|
 |fields|カラムのデータを返します|
 |get_fields|フィールドの一覧をカンマで区切って返します|
